@@ -17,8 +17,8 @@ export default function BackgroundCard() {
       <p>
         Second-year, virtual class took another first semester and second
         semester they decided allowing students studied in physical class which
-        brought everyone&apos;s happiness, especially students who is BacII exam
-        bypass😄. At that time, We have a team(4 members) and I&apos;m the
+        brought everyone&apos;s happiness, especially students who were BacII
+        exam bypass😄. At that time, We had a team(4 members) and I&apos;s the
         lead(cuz they voted). we did some academic projects together such{" "}
         <span className="text-white">
           Remote Car with bluetooth using Arduino
@@ -45,16 +45,16 @@ export default function BackgroundCard() {
         <span className="text-white">
           Thanks to teacher{" "}
           <span className="font-semibold underline">Heng Sovannarith</span> for
-          pushing us to do his projects. He made us to reach our limit by giving
-          projects yet without teaching the basis and every his class there was
-          always a lab.
+          pushing us to complete his projects. He made us to reach our limit by
+          giving projects yet without teaching the basis and every his class
+          there was always a lab.
         </span>{" "}
         semester one, I did Wordpress, Joomla etc and semester two. I had a
-        team(6 members) and I&apos;m the lead(again they voted, which is I
-        didn&apos;t really care cuz I just wanted to do all works that&apos;s
-        it). There was four projects I did PHP api with React, Laravel E-com,
-        and MVC. ohh more one thing I also got cyber security scholarship that
-        make my knowledge more related security😄.
+        team(6 members) and I&apos;s the lead(again they voted and I didn&apos;t
+        really care cuz I just wanted to do all works that&apos;s it). There was
+        four projects I did PHP api with React, Laravel E-com, and MVC. ohh one
+        more thing I also got cyber security scholarship that make my knowledge
+        more related security😄.
       </p>
     </Card>
   )
